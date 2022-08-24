@@ -1,3 +1,30 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10833</md:content-id>  <md:title>Giáo trình Địa Lý</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>e9b34b62-8533-4400-b701-4da78e17d1a3</md:uuid>
-<md:slug>giao-trinh-dia-ly</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Chương I :Bản đồ  </md:title>                                <col:content>                    <col:module document="m30079"/>                            <col:module document="m30448"/>                            <col:module document="m30015"/>                            <col:module document="m30512"/>                            <col:module document="m28816"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Chương II: Khí Hậu  </md:title>                                <col:content>                    <col:module document="m28218"/>                            <col:module document="m30151"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="L&#x1EA1;i V&#x103;n">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10833</md:content-id>
+    <md:title>Gi&#xE1;o tr&#xEC;nh &#x110;&#x1ECB;a L&#xFD;</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>e9b34b62-8533-4400-b701-4da78e17d1a3</md:uuid>
+    <md:slug>giao-trinh-dia-ly</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Ch&#x1B0;&#x1A1;ng I :B&#x1EA3;n &#x111;&#x1ED3;  </md:title>
+      <col:content>
+        <col:module document="m30079"/>
+        <col:module document="m30448"/>
+        <col:module document="m30015"/>
+        <col:module document="m30512"/>
+        <col:module document="m28816"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ch&#x1B0;&#x1A1;ng II: Kh&#xED; H&#x1EAD;u  </md:title>
+      <col:content>
+        <col:module document="m28218"/>
+        <col:module document="m30151"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
